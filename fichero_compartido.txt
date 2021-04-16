@@ -1,1 +1,2 @@
 fichero compartido
+Añado datos al fichero compartido
