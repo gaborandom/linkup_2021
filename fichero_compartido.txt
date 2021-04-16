@@ -1,2 +1,6 @@
 fichero compartido
+<<<<<<< HEAD
 añado datos al fichero
+=======
+Añado datos al fichero compartido
+>>>>>>> main
