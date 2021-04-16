@@ -1,6 +1,11 @@
 fichero compartido
 <<<<<<< HEAD
+<<<<<<< HEAD
 añado datos al fichero
 =======
 Añado datos al fichero compartido
 >>>>>>> main
+=======
+otra linea
+linea master
+>>>>>>> origin/master
